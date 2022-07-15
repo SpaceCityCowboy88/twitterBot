@@ -1,0 +1,23 @@
+~keys
+appKey = <ENTER_YOUR_KEY>
+appSecret = <ENTER_YOUR_KEY>
+accessToken = <ENTER_YOUR_KEY>
+accessSecret = <ENTER_YOUR_KEY>
+
+~searchTerms
+i need a developer
+
+~retweetQuote
+Got an idea? Looking for a developer? My name is Shane a.k.a SpaceCityCowboy! I GUARANTEE your satisfaction and stand behind my work! I can help plan and engineer best practice solutions for efficiency and security. DM's are open. #CryptoAccepted :)
+
+~commentTweet
+Got an idea? Looking for a developer? My name is Shane a.k.a SpaceCityCowboy! I GUARANTEE your satisfaction and stand behind my work! I can help plan and engineer best practice solutions for efficiency and security. DM's are open. #CryptoAccepted :)
+
+~yourTwitterHandle
+@SCowboy88
+
+~imgFileName
+me.jpg
+
+~speed
+15
